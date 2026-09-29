@@ -1,0 +1,149 @@
+@OBSThemeMeta {
+    name: 'Katsushika Hokusai';
+    id: 'com.obsproject.Yami.KatsushikaHokusai';
+    extends: 'com.obsproject.Yami';
+    author: 'Sakyuu';
+    dark: 'false';
+}
+
+@OBSThemeVars {
+    /* Katsushika Hokusai palette */
+    --grey1: #4B565C;
+    --grey2: #486C90;
+    --grey3: #818F9A;
+    --grey4: #C0C0A8;
+    --grey5: #B49C84;
+    --grey6: #F0E4CC;
+    --grey7: #F0E4CC;
+    --grey8: #F0E4CC;
+
+    --white1: #182430;
+    --white2: #182430;
+    --white3: #4B565C;
+    --white4: #4B565C;
+    --white5: #4B565C;
+
+    --black1: #F0E4CC;
+    --black2: #F0E4CC;
+    --black3: #C0C0A8;
+    --black4: #B49C84;
+    --black5: #818F9A;
+
+    --blue1: #90C0D0;
+    --blue2: #486C90;
+    --blue3: #486C90;
+    --blue4: #183060;
+    --blue5: #183060;
+    --blue6: #183060;
+
+    --red1: #603C48;
+    --red2: #603C48;
+    --red3: #603C48;
+    --red4: #603C48;
+    --red5: #603C48;
+    --red6: #603C48;
+
+    --pink1: #183060;
+    --pink2: #183060;
+    --pink3: #183060;
+    --pink4: #4B565C;
+    --pink5: #4B565C;
+    --pink6: #4B565C;
+
+    --teal1: #90C0D0;
+    --teal2: #486C90;
+    --teal3: #486C90;
+    --teal4: #486C90;
+    --teal5: #304848;
+    --teal6: #304848;
+
+    --purple1: #183060;
+    --purple2: #183060;
+    --purple3: #183060;
+    --purple4: #4B565C;
+    --purple5: #4B565C;
+    --purple6: #4B565C;
+
+    --green1: #C0C0A8;
+    --green2: #818F9A;
+    --green3: #818F9A;
+    --green4: #304848;
+    --green5: #304848;
+    --green6: #304848;
+
+    --yellow1: #C0C0A8;
+    --yellow2: #B49C84;
+    --yellow3: #B49C84;
+    --yellow4: #B49C84;
+    --yellow5: #4B565C;
+    --yellow6: #4B565C;
+
+    /* Base theme */
+    --bg_window: #F0E4CC;
+    --bg_base: #C0C0A8;
+    --bg_preview: #F0E4CC;
+
+    --primary: #486C90;
+    --primary_light: #90C0D0;
+    --primary_lighter: #90C0D0;
+    --primary_dark: #183060;
+    --primary_darker: #183060;
+
+    --warning: #B49C84;
+    --danger: #603C48;
+
+    --text: #182430;
+    --text_light: #182430;
+    --text_muted: #4B565C;
+    --text_disabled: #4B565C;
+    --text_inactive: #486C90;
+
+    /* Inputs / controls */
+    --border_color: #182430;
+
+    --input_bg: #C0C0A8;
+    --input_bg_hover: #818F9A;
+    --input_bg_focus: #F0E4CC;
+
+    --list_item_bg_selected: #818F9A;
+    --list_item_bg_hover: #C0C0A8;
+
+    --input_border: #182430;
+    --input_border_hover: #486C90;
+    --input_border_focus: #486C90;
+
+    --button_bg: #C0C0A8;
+    --button_bg_hover: #818F9A;
+    --button_bg_down: #F0E4CC;
+    --button_bg_disabled: #B49C84;
+
+    --button_bg_red: #603C48;
+    --button_bg_red_hover: #603C48;
+    --button_bg_red_down: #603C48;
+
+    --button_border: #182430;
+    --button_border_hover: #486C90;
+    --button_border_focus: #90C0D0;
+
+    --tab_bg: #C0C0A8;
+    --tab_bg_hover: #818F9A;
+    --tab_bg_down: #F0E4CC;
+    --tab_bg_disabled: #B49C84;
+
+    --tab_border: #182430;
+    --tab_border_hover: #486C90;
+    --tab_border_focus: #90C0D0;
+    --tab_border_selected: #486C90;
+
+    --scrollbar_handle: #818F9A;
+    --scrollbar_hover: #486C90;
+    --scrollbar_down: #4B565C;
+    --scrollbar_border: #182430;
+
+    --toolbutton_bg: #C0C0A8;
+    --toolbutton_bg_hover: #818F9A;
+    --toolbutton_bg_down: #F0E4CC;
+    --toolbutton_bg_disabled: #B49C84;
+
+    --highlight_color: #90C0D0;
+}
